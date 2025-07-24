@@ -1,0 +1,10 @@
+{
+  "version": "RUvl",
+  "routingItems": [
+    {
+      "remarks": "\u0412\u0441\u0451, \u043A\u0440\u043E\u043C\u0435 \u0420\u0424",
+      "domainStrategy": "IPOnDemand",
+      "url": "https://raw.githubusercontent.com/Grokon/v2rayrouting/refs/heads/master/all_except_ru.json"
+    }
+  ]
+}
